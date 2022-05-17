@@ -15,7 +15,7 @@
     <WorldInfo title='Desk.x3d'/>
     <ProtoDeclare name='Desk'>
       <ProtoInterface>
-        <field accessType='inputOutput' name='diffuseColor' type='SFColor' value='0.5 0.4 0.2'/>
+        <field accessType='inputOutput' DEF="GeneralColor" name='diffuseColor' type='SFColor' value='0.5 0.4 0.2'/>
       </ProtoInterface>
       <ProtoBody>
         <Group>
